@@ -35,8 +35,8 @@
 
 
 # 🌟 News
-* **2023.8.7:** Github Repository Initialization (copy from Meta-Transformer). The paper and model will be release before September. ⌛⌛⌛
-
+* **2023.9.6:** Paper is released at arxiv, and code will be gradually released. ⌛⌛⌛
+* **2023.8.7:** Github Repository Initialization (copy from Meta-Transformer).
 
 # 🔓 Model Zoo
 
