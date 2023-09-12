@@ -28,6 +28,8 @@
 
 -----------------
 
+[![arXiv](https://img.shields.io/badge/arxiv-2309.02320-b31b1b?style=plastic&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2309.02320)](https://arxiv.org/abs/2309.02320)
+
 ### 🌟 Spec-based Foundation Model Supports A Wide Range of Seismology
 
 
@@ -48,7 +50,19 @@
 |      Model      |   Pretraining   | Spec Size | #Param |                                               Download | 国内下载源                                               |
 | :------------: | :----------: | :----------------------: | :----: | :---------------------------------------------------------------------------------------------------: | :--------: | 
 | SeisCLIP  | STEAD-1M |         50 × 120          |  -  |   [ckpt]    | [ckpt]
-| SeisCLIP  | STEAD-1M |         50 × 600          |  -  |   [ckpt]   | [ckpt]
+| SeisCLIP  | STEAD-1M |         50 × 600          |  -  |   [ckpt]    | [ckpt]
 
+
+&ensp;
+# Citation
+If the code and paper help your research, please kindly cite:
+```
+@article{si2023seisclip,
+        title={SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction}, 
+        author={Xu Si and Xinming Wu and Hanlin Sheng and Jun Zhu and Zefeng Li},
+        year={2023},
+        journal={arXiv preprint arXiv:2309.02320},
+}
+```
 # License
 This project is released under the [MIT license](LICENSE).
