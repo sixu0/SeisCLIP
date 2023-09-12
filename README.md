@@ -37,7 +37,9 @@
 
 
 # 🌟 News
-* **2023.8.7:** Github Repository Initialization. The paper and model will be release before September. ⌛⌛⌛ (copy README template from Meta-Transformer)
+
+* **2023.9.8:** Paper is released at [arxiv](https://arxiv.org/abs/2309.02320), and code will be gradually released.
+* **2023.8.7:** Github Repository Initialization. (copy README template from Meta-Transformer)
 
 
 # 🔓 Model Zoo
@@ -66,3 +68,6 @@ If the code and paper help your research, please kindly cite:
 ```
 # License
 This project is released under the [MIT license](LICENSE).
+
+# Acknowledgement
+This code is developed based on excellent open-sourced projects including [CLIP](https://github.com/openai/CLIP), [OpenCLIP](https://github.com/mlfoundations/open_clip/tree/main), [AST](https://github.com/YuanGongND/ast), [MetaTransformer](https://github.com/invictus717/MetaTransformer/tree/master), and [ViT-Adapter](https://github.com/czczup/ViT-Adapter).

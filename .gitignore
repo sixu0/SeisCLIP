@@ -163,3 +163,7 @@ cython_debug/
 
 #tex
 .texpadtmp/
+
+
+#pretrain_model
+.pt
