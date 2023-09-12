@@ -166,4 +166,4 @@ cython_debug/
 
 
 #pretrain_model
-.pt
+*.pt
