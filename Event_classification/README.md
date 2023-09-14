@@ -1,6 +1,6 @@
 # SeisCLIP for Event Classification
 
-This part of code is used for event classification, and we provide the pretrained model.
+This part of code is used for event classification, and we provide the pretrained model. For use the code, you should put the pretrained weights under the "pretrained_models file".
 
 ## Event Classification
 <div>
