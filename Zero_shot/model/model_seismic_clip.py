@@ -1,3 +1,9 @@
+# Revised from Open-CLIP
+# @Time    : 14/9/23
+# @Author  : Xu Si
+# @Affiliation  : University of Science and Technolog of China
+# @Email   : xusi@mail.ustc.edu.cn
+
 from collections import OrderedDict
 from typing import Tuple, Union
 

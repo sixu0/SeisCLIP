@@ -38,6 +38,7 @@
 
 # 🌟 News
 
+* **2023.9.14:** 🌟🌟🌟 Pretrained weight and a simple usage demo for out SeisCLIP have been released. The implementation of SeisCLIP for event classification also released. Because the location and focal mechanism analysis code need lib 'Pytorch_geometric', it may be challenging for beginners. To provide a more detailed documentation, we will release it later. (Python Version 3.9.0 is recommended)
 * **2023.9.8:** Paper is released at [arxiv](https://arxiv.org/abs/2309.02320), and code will be gradually released.
 * **2023.8.7:** Github Repository Initialization. (copy README template from Meta-Transformer)
 
@@ -51,8 +52,8 @@
 
 |      Model      |   Pretraining   | Spec Size | #Param |                                               Download | 国内下载源                                               |
 | :------------: | :----------: | :----------------------: | :----: | :---------------------------------------------------------------------------------------------------: | :--------: | 
-| SeisCLIP  | STEAD-1M |         50 × 120          |  -  |   [ckpt]    | [ckpt]
-| SeisCLIP  | STEAD-1M |         50 × 600          |  -  |   [ckpt]    | [ckpt]
+| SeisCLIP  | STEAD-1M |         50 × 120          |  -  |   [ckpt](https://drive.google.com/file/d/1UIeFWl2wENr83GRtdi6Tlj4MLDZ3UctN/view?usp=drive_link)     | [ckpt]
+| SeisCLIP  | STEAD-1M |         50 × 600          |  -  |   [ckpt](https://drive.google.com/file/d/1_YiqeaBlBg-EKJ36Yvluoc50n4Y86aI3/view?usp=drive_link)     | [ckpt]
 
 
 &ensp;
@@ -70,4 +71,4 @@ If the code and paper help your research, please kindly cite:
 This project is released under the [MIT license](LICENSE).
 
 # Acknowledgement
-This code is developed based on excellent open-sourced projects including [CLIP](https://github.com/openai/CLIP), [OpenCLIP](https://github.com/mlfoundations/open_clip/tree/main), [AST](https://github.com/YuanGongND/ast), [MetaTransformer](https://github.com/invictus717/MetaTransformer/tree/master), and [ViT-Adapter](https://github.com/czczup/ViT-Adapter).
+This code is developed based on excellent open-sourced projects including [CLIP](https://github.com/openai/CLIP), [OpenCLIP](https://github.com/mlfoundations/open_clip/tree/main), [AST](https://github.com/YuanGongND/ast), [MetaTransformer](https://github.com/invictus717/MetaTransformer/tree/master), [ViT-Adapter](https://github.com/czczup/ViT-Adapter), [Seisbench](https://github.com/seisbench/seisbench), [STEAD](https://github.com/smousavi05/STEAD) and [PNW](https://github.com/niyiyu/PNW-ML).
