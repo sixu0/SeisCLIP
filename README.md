@@ -5,15 +5,14 @@
 
 <div>
 <div align="center">
-    <a href='https://sixu0.github.io/' target='_blank'>Xu Si
-    <sup>1</sup></a>&emsp;
+    <a href='https://sixu0.github.io/' target='_blank'>Xu Si<sup>1</sup></a>&emsp;
     <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Xinming  Wu<sup>1,†,‡</sup></a>&emsp;
     <a href='http://cig.ustc.edu.cn/people/list.htm' target='_blank'>Hanlin Sheng<sup>1</sup></a>&emsp;
     </br>
     <a href='https://dams.ustc.edu.cn/main.htm' 
-    target='_blank'>Jun Zhu <sup>1</sup></a>&emsp;
+    target='_blank'>Jun Zhu<sup>1</sup></a>&emsp;
     <a href='https://dams.ustc.edu.cn/main.htm' 
-    target='_blank'>Zefeng Li <sup>1</sup></a>&emsp;
+    target='_blank'>Zefeng Li<sup>1</sup></a>&emsp;
 </div>
 <div>
 
