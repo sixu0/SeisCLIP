@@ -28,6 +28,9 @@
 -----------------
 
 [![arXiv](https://img.shields.io/badge/arxiv-2309.02320-b31b1b?style=plastic&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2309.02320)](https://arxiv.org/abs/2309.02320)
+[![TGRS](https://img.shields.io/badge/IEEE_TGRS-2024-3480bc)](https://www.nature.com/articles/s43247-023-01188-4)
+![GitHub followers](https://img.shields.io/github/followers/sixu0?style=social)
+![GitHub stars](https://img.shields.io/github/stars/sixu0/SeisCLIP?style=social)
 
 ### 🌟 Spec-based Foundation Model Supports A Wide Range of Seismology
 
@@ -37,6 +40,7 @@
 
 # 🌟 News
 
+* **2024.2.2:**  🌟🌟🌟 Congratulation! The paper has been published on IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) [Links](https://ieeexplore.ieee.org/abstract/document/10400506). 
 * **2023.9.14:** 🌟🌟🌟 Pretrained weight and a simple usage demo for out SeisCLIP have been released. The implementation of SeisCLIP for event classification also released. Because the location and focal mechanism analysis code need lib 'Pytorch_geometric', it may be challenging for beginners. To provide a more detailed documentation, we will release it later. (Python Version 3.9.0 is recommended)
 * **2023.9.8:** Paper is released at [arxiv](https://arxiv.org/abs/2309.02320), and code will be gradually released.
 * **2023.8.7:** Github Repository Initialization. (copy README template from Meta-Transformer)
@@ -59,12 +63,15 @@
 # Citation
 If the code and paper help your research, please kindly cite:
 ```
-@article{si2023seisclip,
-        title={SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction}, 
-        author={Xu Si and Xinming Wu and Hanlin Sheng and Jun Zhu and Zefeng Li},
-        year={2023},
-        journal={arXiv preprint arXiv:2309.02320},
-}
+@ARTICLE{
+  author={Si, Xu and Wu, Xinming and Sheng, Hanlin and Zhu, Jun and Li, Zefeng},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={SeisCLIP: A Seismology Foundation Model Pre-Trained by Multimodal Data for Multipurpose Seismic Feature Extraction}, 
+  year={2024},
+  volume={62},
+  pages={1-13},
+  doi={10.1109/TGRS.2024.3354456}}
+
 ```
 # License
 This project is released under the [MIT license](LICENSE).
