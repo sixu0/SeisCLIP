@@ -5,6 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
+# Jupyter 
+.DS_store
+# Model
+.pt
+# DATA
+.sac
+.csv
+.hdf5
+
+Pretrain/data/
 
 # Distribution / packaging
 .Python
