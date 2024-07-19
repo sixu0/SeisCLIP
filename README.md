@@ -37,6 +37,7 @@
 
  As shown in this figure, SeisCLIP can provide services for downstream tasks including event classification 💥 , location 🌍 , mechanism ⛰, etc.
 
+Due to the limitations of hinet data transmission, we have not made the location and focal mechanism analysis datasets publicly available. They can be accessed through Baidu Netdisk.[Links](https://pan.baidu.com/s/1khkeHHX5pf-Nq3fZNH4mKw?pwd=SEIS)(Password:SEIS)
 
 # 🌟 News
 
