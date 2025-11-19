@@ -41,6 +41,8 @@ Due to the limitations of hinet data transmission, we have not made the location
 
 # 🌟 News
 
+
+* **2025.11.20:** Update Social Circle examples.
 * **2024.2.2:**  🌟🌟🌟 Congratulation! The paper has been published on IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS) [Links](https://ieeexplore.ieee.org/abstract/document/10400506). 
 * **2023.9.14:** 🌟🌟🌟 Pretrained weight and a simple usage demo for out SeisCLIP have been released. The implementation of SeisCLIP for event classification also released. Because the location and focal mechanism analysis code need lib 'Pytorch_geometric', it may be challenging for beginners. To provide a more detailed documentation, we will release it later. (Python Version 3.9.0 is recommended)
 * **2023.9.8:** Paper is released at [arxiv](https://arxiv.org/abs/2309.02320), and code will be gradually released.
